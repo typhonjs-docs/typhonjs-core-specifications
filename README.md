@@ -1,2 +1,2 @@
 # typhonjs-core-specifications
-Provides overview documentation for all TyphonJS orgs / repos.
+Provides essential specifications for all TyphonJS orgs / repos.
